@@ -1,8 +1,12 @@
 This is my third file
 modify
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 added new lines
 new line added
+=======
+added new lines
+>>>>>>> Stashed changes
 =======
 added new lines
 >>>>>>> Stashed changes
