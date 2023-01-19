@@ -1,4 +1,8 @@
 This is my first GitDemo
 this is my new line
+<<<<<<< HEAD
 hi
-hello pavani
+hello 
+=======
+welcome to github
+>>>>>>> cd4f833dd7976ee4e588bb12f12d078e665873d1
